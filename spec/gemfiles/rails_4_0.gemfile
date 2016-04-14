@@ -6,6 +6,6 @@ gem 'rails', '~> 4.0.4'
 
 # Force sass-rails ~> 4.0.2 to avoid sprockets error
 # See rails/sass-rails#191 for more information
-gem 'sass-rails', '~> 4.0.2'
+gem 'sassc-rails'
 
 eval_gemfile './shared.gemfile'

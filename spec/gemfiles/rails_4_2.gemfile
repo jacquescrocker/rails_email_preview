@@ -4,6 +4,6 @@ gemspec path: '../..'
 
 gem 'rails', '~> 4.2.0'
 
-gem 'sass-rails', '~> 5.0.1'
+gem 'sassc-rails'
 
 eval_gemfile './shared.gemfile'
